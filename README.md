@@ -7,7 +7,7 @@ Data binding:
 
 Directives:
 1. Component directive
-2. Structcural directive:
+2. Structural directive:
    * @HostBinding
    * @HostListener
    * viewContainer
