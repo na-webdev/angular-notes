@@ -33,3 +33,17 @@ Lifecycle hooks:
    - AfterViewInit
    - AfterViewChecked
    - OnDestroy
+
+Forms
+   1. Template Driven:
+      - ngForm
+      - ngSubmit
+      - ngModelGroup
+      - #template
+      - ngModel
+   2. Reactive:
+        - FormGroup
+        - FormControl
+        - FormArray
+        - Validators
+    
