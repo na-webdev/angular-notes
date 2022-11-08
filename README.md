@@ -23,3 +23,13 @@ Directives:
 3. Pipe
    - async
    - keyvalue
+
+Lifecycle hooks:
+   - OnChanges
+   - OnInit
+   - DoCheck
+   - AfterContentInit
+   - AfterContentChecked
+   - AfterViewInit
+   - AfterViewChecked
+   - OnDestroy
