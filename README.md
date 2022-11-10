@@ -46,4 +46,7 @@ Forms
         - FormControl
         - FormArray
         - Validators
+        - formGroup
+        - formGroupName
+        - ngSubmit
     
