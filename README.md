@@ -72,4 +72,33 @@ Dependency Injection
 - @Self
 - @SkipSelf
 - @Optional
-- 
+- @Host
+
+Observables
+
+- of
+- from
+- fromEvent
+- pipe
+- tap
+- map
+- filter
+- switchMap
+- mergeMap
+- concatMap
+- exhaustMap
+- take
+- takeUntil
+- takeWhile
+- takeLast
+- first
+- last
+- single
+- skip
+- skipUntil
+- skipWhile
+- skipLast
+- debounce
+- debounceTime
+- retry
+- retryWhen
